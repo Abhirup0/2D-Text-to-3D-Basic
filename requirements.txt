@@ -1,0 +1,7 @@
+gradio>=3.35.0
+numpy>=1.22.0
+Pillow>=9.0.0
+trimesh>=3.9.0
+torch>=2.0.0
+point-e>=0.0.1
+matplotlib>=3.5.0 
