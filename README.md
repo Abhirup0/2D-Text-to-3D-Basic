@@ -10,6 +10,15 @@
   <b>Convert images or text descriptions into 3D models with ease</b>
 </p>
 
+## 🎬 Demo
+
+<div align="center">
+  <video width="100%" controls>
+    <source src="static/media/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## 🌟 Features
 
 - 💬 **Text-to-3D**: Generate 3D models from text descriptions
@@ -90,6 +99,7 @@ project/
 ├── requirements.txt
 ├── README.md
 ├── static/         # CSS and static files
+│   └── media/      # Media files including demo video
 └── samples/        # Sample inputs/outputs
 ```
 
